@@ -1,0 +1,2 @@
+# WebCrawler
+The source code for hypothetical company's legacy web crawler, which is single-threaded.I personally upgrade it to be parallel to increase crawler throughput using advanced features as multi-threading, reflection, design patterns, AOP (Aspect Orientation Program), Functional Programming and I/O Files (reading and writing from JSON files). And write a profiler to measure how much it performance been improved. 
